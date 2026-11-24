@@ -1,5 +1,6 @@
-# Getting Started
-Install the dependencies and run the project
+# Webpage Lesson
+For this lesson, I followed along with the tutorial on Scrimba to set up the boilerplate HTML and CSS.
+
 ```
 npm install
 npm start
